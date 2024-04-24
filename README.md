@@ -1,6 +1,6 @@
 <div>
     <div align=center>
-        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+        <img src="https://github.com/nahuelpaez86/nahuelpaez86/blob/master/dev-no-background.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="400" width="700">
     </div>
     <hr>
     <div align=center>
