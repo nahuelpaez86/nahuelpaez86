@@ -34,7 +34,7 @@
  </div>
  
   ## 📱 &nbsp;Projects
-  - A cryptocurrency application made with UIkit(Swift) :> <a href=""> <button> Repo </button> </a>
+  - A cryptocurrency application made with UIkit(Swift) :> <a href="https://github.com/nahuelpaez86/cryptoApp"> <button> Repo </button> </a>
   
  ## 📫 &nbsp;Contacts
  <div align=center>
