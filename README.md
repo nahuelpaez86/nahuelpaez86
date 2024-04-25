@@ -32,8 +32,11 @@
      <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" width=60>
      <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" width=60>
  </div>
-
-  ## 📫 &nbsp;Contacts
+ 
+  ## 📱 &nbsp;Projects
+  - A cryptocurrency application made with UIkit(Swift) :> <a href=""> <button> Repo </button> </a>
+  
+ ## 📫 &nbsp;Contacts
  <div align=center>
       <a href="mailto:nahuelpaez86@gmail.com?subject=[GitHub]%20🔥%20profile%20contact&body=Hello"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
      <a href="https://www.linkedin.com/in/nahuelpaez97/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
